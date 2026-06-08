@@ -30,7 +30,7 @@ This project answers the following questions:
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn
+* Scikit-learn (Logistic Regression, Random Forest, Gradient Boosting)
 * XGBoost
 * Jupyter Notebook
 * VS Code
