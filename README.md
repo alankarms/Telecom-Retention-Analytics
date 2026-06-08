@@ -305,8 +305,8 @@ data/raw/Telco_customer_churn.xlsx
 4. Run the notebooks in order:
 
 ```text
-notebooks/01_eda_sql_business_analysis.ipynb
-notebooks/02_modeling_retention_strategy.ipynb
+notebooks/eda_sql_business_analysis.ipynb
+notebooks/modeling_retention_strategy.ipynb
 ```
 
 ---
