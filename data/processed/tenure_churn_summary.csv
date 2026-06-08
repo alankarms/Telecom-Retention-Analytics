@@ -1,0 +1,6 @@
+tenure_group,total_customers,churned_customers,churn_rate_percent,avg_monthly_charge,monthly_revenue_lost
+0 months,11,0,0.0,41.42,0.0
+1-12 months,2175,1037,47.68,56.17,68954.25
+13-24 months,1024,294,28.71,61.36,23081.65
+25-48 months,1594,325,20.39,65.93,27462.5
+49-72 months,2239,213,9.51,73.95,19632.45
