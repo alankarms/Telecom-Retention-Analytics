@@ -1,5 +1,5 @@
 -- ============================================================
--- Telecom Customer Churn Project
+-- Telecom Retention Analytics
 -- SQL Analysis Queries
 -- ============================================================
 
