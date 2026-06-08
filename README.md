@@ -249,27 +249,33 @@ Based on the analysis and modelling results, the following actions are recommend
 ## Project Structure
 
 ```text
-telecom-retention-analytics/
+Telecom Retention Analytics/
 │
 ├── data/
 │   ├── raw/
-│   │   └── Telco_customer_churn.xlsx
+│   │   ├── Telco_customer_churn.xlsx
+|   |   └── Telco_customer_churn.csv
 │   └── processed/
-│       ├── telco_churn_cleaned.csv
+│       ├── Telco_customer_churn.csv
+│       ├── telco_churn.db
+│       ├── contract_churn_summary.csv
+│       ├── internet_churn_summary.csv
+│       ├── payment_churn_summary.csv
+│       ├── tenure_churn_summary.csv
+│       ├── top_churn_reasons.csv
+│       ├── final_xgboost_feature_importance.csv
 │       ├── customer_churn_probability_scores.csv
 │       ├── customer_retention_priority_scores.csv
-│       ├── retention_priority_summary.csv
-│       └── final_xgboost_feature_importance.csv
+│       └── retention_priority_summary.csv
 │
 ├── notebooks/
-│   ├── 01_eda_sql_business_analysis.ipynb
-│   └── 02_modeling_retention_strategy.ipynb
+│   ├── eda_sql_business_analysis.ipynb
+│   └── modeling_retention_strategy.ipynb
 │
 ├── sql/
 │   └── churn_analysis_queries.sql
 │
 ├── dashboard/
-├── reports/
 ├── README.md
 └── requirements.txt
 ```
@@ -336,5 +342,4 @@ Possible future improvements include:
 ## Author
 
 **Alankar Singh**
-MSc Data Science
-Telecom Customer Churn Prediction and Retention Strategy Project
+| MSc Data Science @ University of Exeter
