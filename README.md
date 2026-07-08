@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project is an end-to-end customer churn analytics solution for a fictional telecom company. The goal is to identify customers who are likely to churn, understand the key drivers behind churn, estimate revenue at risk, and create a retention priority framework for targeted customer retention.
+This project is an end-to-end customer churn analytics solution for a fictional telecom company, using the IBM Telco Customer Churn dataset. The goal is to identify customers who are likely to churn, understand the key drivers behind churn, estimate revenue at risk, and create a retention priority framework for targeted customer retention.
 
-The project combines **SQL-based business analysis**, **Python-based exploratory data analysis**, **machine learning**, and **customer-level retention scoring** to move beyond prediction and support practical business decision-making.
+The project combines SQL-based business analysis, Python-based exploratory data analysis, machine learning, customer-level retention scoring, and a Tableau dashboard to move beyond prediction and support practical business decision-making.
 
 ---
 
