@@ -107,6 +107,21 @@ Key steps included:
 8. Generating customer-level churn probabilities
 9. Creating a retention priority framework using churn probability and customer value
 
+### Tableau Dashboard
+
+An interactive Tableau dashboard was created to communicate the project findings in a business-friendly format.
+
+The dashboard is structured into three pages:
+
+1. **Churn & Revenue Overview**  
+   Summarises overall churn, revenue loss, churn by contract, internet service, and geographic churn concentration.
+
+2. **Churn Drivers Analysis**  
+   Explores the main churn drivers including payment method, tenure group, tech support, online security, churn reasons, and contract-internet service combinations.
+
+3. **Retention Priority Framework**  
+   Uses the final model outputs to show customer-level churn probabilities, priority groups, expected revenue at risk, feature importance, and the top customers for retention action.
+   
 ---
 
 ## Key Business Insights
@@ -269,7 +284,17 @@ Based on the analysis and modelling results, the following actions are recommend
 
 ```text
 Telecom Retention Analytics/
-│
+├── dashboard/tableau_data
+│   ├── telecom_retention_analytics_dashboard.twbx
+|   ├── telecom_retention_analytics_dashboard_1.twbx
+│   ├── Churn_and_Revenue_Overview.jpeg
+│   ├── Churn_Drivers.jpeg
+│   ├── Retention_Priority_Framework.jpeg
+│   ├── Telco_customer_churn.csv
+│   ├── customer_retention_priority_scores.csv
+│   ├── final_xgboost_feature_importance.csv
+│   └── retention_priority_summary.csv
+|
 ├── data/
 │   ├── raw/
 │   │   ├── Telco_customer_churn.xlsx
@@ -342,6 +367,7 @@ notebooks/modeling_retention_strategy.ipynb
 * Generated customer-level churn probability scores
 * Created a retention priority framework using churn probability and CLTV
 * Identified the Critical Priority group with approximately **USD 16,721 expected monthly revenue at risk**
+* Built a three-page Tableau dashboard covering churn overview, churn drivers, and retention prioritisation
 
 ---
 
@@ -349,7 +375,6 @@ notebooks/modeling_retention_strategy.ipynb
 
 Possible future improvements include:
 
-* Building a Power BI or Tableau dashboard
 * Deploying the model as a Streamlit app
 * Adding SHAP values for deeper model explainability
 * Simulating retention campaign costs and expected savings
