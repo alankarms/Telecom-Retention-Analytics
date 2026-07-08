@@ -30,6 +30,14 @@ A three-page Tableau dashboard was created to communicate the project findings i
 
 ![Churn and Revenue Overview](dashboard/tableau_data/Churn_and_Revenue_Overview.jpeg)
 
+### Churn Drivers
+
+![Churn Drivers](dashboard/tableau_data/Churn_Drivers.jpeg)
+
+### Retention Priority Framework
+
+![Retention Priority Framework](dashboard/tableau_data/Retention_Priority_Framework.jpeg)
+
 ---
 
 ## Tools Used
