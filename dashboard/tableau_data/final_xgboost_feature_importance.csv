@@ -1,0 +1,48 @@
+Feature,Importance
+contract_Month-to-month,0.27538097
+online_security_No,0.16767842
+internet_service_Fiber optic,0.08741882
+tech_support_No,0.084979154
+payment_method_Electronic check,0.05333596
+dependents_No,0.039612263
+contract_Two year,0.030166015
+tenure_months,0.02864914
+paperless_billing_Yes,0.023474637
+online_backup_No,0.022632854
+dependents_Yes,0.01737135
+streaming_tv_Yes,0.016028827
+internet_service_No,0.015102947
+paperless_billing_No,0.013848026
+monthly_charges,0.013106778
+partner_Yes,0.012008218
+multiple_lines_No,0.011406912
+streaming_movies_Yes,0.0104984855
+contract_One year,0.010246119
+senior_citizen_Yes,0.008649637
+total_charges,0.007959113
+partner_No,0.0079351235
+gender_Female,0.0075259362
+senior_citizen_No,0.006131297
+cltv,0.005528447
+tech_support_Yes,0.005357073
+internet_service_DSL,0.004400897
+phone_service_Yes,0.0038642283
+payment_method_Credit card (automatic),0.0036581703
+phone_service_No,0.0031496878
+streaming_movies_No,0.002894379
+payment_method_Bank transfer (automatic),0.0
+gender_Male,0.0
+streaming_movies_No internet service,0.0
+device_protection_Yes,0.0
+streaming_tv_No internet service,0.0
+streaming_tv_No,0.0
+tech_support_No internet service,0.0
+device_protection_No internet service,0.0
+device_protection_No,0.0
+online_backup_Yes,0.0
+online_backup_No internet service,0.0
+online_security_Yes,0.0
+online_security_No internet service,0.0
+multiple_lines_Yes,0.0
+multiple_lines_No phone service,0.0
+payment_method_Mailed check,0.0
