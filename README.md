@@ -22,23 +22,15 @@ This project answers the following questions:
 
 ---
 
----
-
 ## Dashboard Preview
 
 A three-page Tableau dashboard was created to communicate the project findings in a business-friendly format. The dashboard covers churn overview, churn drivers, revenue impact, model performance, and customer-level retention prioritisation.
 
 ### Churn and Revenue Overview
 
-![Churn and Revenue Overview](dashboard/Churn_and_Revenue_Overview.jpeg)
+![Churn and Revenue Overview](dashboard/tableau_data/Churn_and_Revenue_Overview.jpeg)
 
-### Churn Drivers
-
-![Churn Drivers](dashboard/Churn_Drivers.jpeg)
-
-### Retention Priority Framework
-
-![Retention Priority Framework](dashboard/Retention_Priority_Framework.jpeg)
+---
 
 ## Tools Used
 
