@@ -34,6 +34,7 @@ This project answers the following questions:
 * XGBoost
 * Jupyter Notebook
 * VS Code
+* Tableau
 
 ---
 
